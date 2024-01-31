@@ -1,0 +1,27 @@
+
+.card{
+  display: flex;
+  flex-wrap: nowrap;
+color: #25262a;
+font-size: 10px;
+padding: 7px 7px ;
+
+
+}
+  .show-more-btn {
+    cursor: pointer;
+    font-size: 14px ;
+    padding: 10px 20px ;
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+    top: 0;
+    border-radius: 0.2rem;
+}
+
+.show-more-btn:hover {
+    background:transparent;
+    color: #7971ea;
+    transition: 0.2s all ease-in-out ;
+
+}
